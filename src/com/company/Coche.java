@@ -83,5 +83,4 @@ public class Coche {
         result = 31 * result + (precio != null ? precio.hashCode() : 0);
         return result;
     }
-
 }
